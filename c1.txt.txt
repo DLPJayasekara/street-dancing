@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+<html>
+
+ <head>
+ </head>
+	<title>STREET DANCING</title>
+
+
+ <body>
+	<h1 style="color:blue; font-size:300%;text-align:center;">STREET DANCING</h1>
+	<h2 style="color:black; font-face:arial black;">History of Street Dancing</h2>
+	<p>Street dance evolved from popular culture and social dance in America during the 1970s and it has since spread internationally. People would dance anywhere that had an open available space: a park, a street or a party. An important feature of street dance is that this was not a style that was ‘learned’ within a studio under formal tuition, but it was improvised in an informal space. As such, it involved interaction between the dancers and dancers/watchers and encouraged creativity in the making up and structuring of movement.</p>
+	
+	<BR>Popping, Locking and Breaking are three foundation funk styles that come under the umbrella term of Street Dance. Popping and Locking started in the early 1970’s funk era in California, USA. Breaking or Bboying started in the Bronx in New York in the late 1970s but came to the world’s attention through films such as Wild Style and Breakdance in the 1980s.</BR>
+ 
+	<BR>The significant feature of the history of Street Dance was that it was the dance of young people. It offered opportunities for creative expression, gave a sense of freedom and a ‘voice’ to unrepresented and often invisible communities through the means of music and dance. Despite the improvisational nature of these street dances, participants wanted to learn their vocabularies and skills, to enable teachers to pass these on with safety and a high level of execution, Street Dance was incorporated into the DFR Faculty and the first syllabus was offered in 2010.</BR> 
+ 
+</body>
+</html>
